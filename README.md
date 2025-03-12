@@ -26,5 +26,10 @@ WeatherNow is a simple, responsive weather application that provides real-time w
 ![Screenshot 2025-03-12 062047](https://github.com/user-attachments/assets/80f96ff4-bf79-475a-a335-9015de3b61fc)
 
 ---
+🌍 **Live Demo:** [🔗 Visit WeatherNow]([https://glistening-kataifi-c2d219.netlify.app/](https://altamashnaseem.netlify.app/)) 
 
+
+
+🌐 Live Demo
+🔗 Click Here to Visit WeatherNow
 
